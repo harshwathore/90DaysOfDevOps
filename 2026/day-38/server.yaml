@@ -1,0 +1,20 @@
+server:
+  name: MyServer
+  ip: 123.223.00
+  port: 8080
+
+credentials:
+  username: admin
+  password: admin123
+
+
+server:
+  name:myserver
+  ip: 123.223.00
+  port: 8080
+
+credentials:
+  username: admin
+  password: admin123
+
+
