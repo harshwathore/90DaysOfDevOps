@@ -48,10 +48,7 @@ In your `devops-git-practice` repo, perform the following:
 
 ---
 
-### Task 4: Pull from GitHub
-1. Make a change to a file **directly on GitHub** (use the GitHub editor)
-2. Pull that change to your local repo
-3. Answer in your notes: What is the difference between `git fetch` and `git pull`?
+
 
 ---
 
