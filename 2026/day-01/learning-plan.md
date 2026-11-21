@@ -1,1 +1,1 @@
-1st day task completed
+Day 1 task is completed 
